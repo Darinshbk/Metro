@@ -1,0 +1,15 @@
+streamlit
+pandas
+matplotlib
+seaborn
+geopandas
+sklearn
+io
+folium
+branca
+folium
+requests
+difflib
+plotly
+glob
+os
